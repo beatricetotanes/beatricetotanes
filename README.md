@@ -1,4 +1,4 @@
-It's nice to see you here ☀️
+### It's nice to see you here ☀️
 - 👋 Hi, I’m @beatricetotanes. 
 - 🏫 Currently, I'm a computer science major at UP Mindanao.
 - 👀 I’m interested in innovation, startups, studying, and mobile development.
@@ -7,9 +7,12 @@ It's nice to see you here ☀️
 - 📷 Instagram: https://www.instagram.com/beadelrosario19/
 - 📩 Reach me at bdtotanes@up.edu.ph
 
+### My Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>My Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatricetotanes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 beatricetotanes/beatricetotanes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
