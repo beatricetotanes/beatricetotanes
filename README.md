@@ -8,9 +8,9 @@
 - 📩 Reach me at bdtotanes@up.edu.ph
 
 ### My Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatricetotanes&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatricetotanes&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes&show_icons=true&theme=radical&hide=issues,stars&bg_color=#ffa585,#ffeda0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes&show_icons=true&theme=buefy&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
