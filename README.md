@@ -10,7 +10,7 @@
 ### My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatricetotanes&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes&show_icons=true&theme=radical&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricetotanes&show_icons=true&theme=radical&hide=issues,stars&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
